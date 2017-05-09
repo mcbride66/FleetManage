@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_site">
+    <sc_catalog_site action="INSERT_OR_UPDATE">
+        <cms_continue_shopping/>
+        <cms_home>fleet_management_catalog</cms_home>
+        <cms_search/>
+        <content_site display_value="Service Management">a7161b58344355006f71c202665db07c</content_site>
+        <sc_catalog display_value="Fleet Management Catalog">663d3f76e4e232007f44ec398be0ae4c</sc_catalog>
+        <sys_class_name>sc_catalog_site</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-09 20:09:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cb4dff76e4e232007f44ec398be0aea4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Management.Fleet Management Catalog</sys_name>
+        <sys_package display_value="Fleet Management" source="x_snc_fleet_manage">e70df376e4e232007f44ec398be0ae07</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Fleet Management">e70df376e4e232007f44ec398be0ae07</sys_scope>
+        <sys_update_name>sc_catalog_site_cb4dff76e4e232007f44ec398be0aea4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-09 20:09:37</sys_updated_on>
+    </sc_catalog_site>
+</record_update>
